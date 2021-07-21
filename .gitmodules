@@ -1,0 +1,6 @@
+[submodule "covid-chicago"]
+	path = covid-chicago
+	url = git@github.com:kleisman7/covid-chicago.git
+[submodule "covid_chicago"]
+	path = covid_chicago
+	url = git@github.com:kleisman7/covid-chicago.git
